@@ -18,7 +18,10 @@ Innovative reconciliation approaches:
 Additional packages required for the following example are statsforecast and datasetsforecast. In case they are not already installed, you can install them using your preferred method, such as pip install statsforecast datasetsforecast. The datasetsforecast library enables us to download hierarchical datasets, while statsforecast will be utilized for computing the base forecasts that need to be reconciled.
 
 
+### References:
 
+https://pub.towardsai.net/introduction-to-nixtla-for-demand-forecasting-2b97ab5e0854
+https://nixtlaverse.nixtla.io/hierarchicalforecast/index.html 
    
 
 
